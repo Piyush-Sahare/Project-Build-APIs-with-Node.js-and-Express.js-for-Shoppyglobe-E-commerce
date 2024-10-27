@@ -186,6 +186,8 @@ This API documentation provides a comprehensive overview of the available endpoi
 ```bash
        git clone https://github.com/Piyush-Sahare/Project-Build-APIs-with-Node.js-and-Express.js-for-Shoppyglobe-E-commerce.git
 
+       cd Project-Build-APIs-with-Node.js-and-Express.js-for-Shoppyglobe-E-commerce
+
        cd backend
 
        npm install
