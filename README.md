@@ -1,25 +1,3 @@
-# Setup Guide
-
-## 1. Clone the Project Repository
-## 2. Set Up the Backend
-## 3. Set Up the Frontend
-
-### Paste these commands in Your Terminal
-
-```bash
-   git clone https://github.com/Piyush-Sahare/Project-Build-APIs-with-Node.js-and-Express.js-for-Shoppyglobe-E-commerce.git
-
-   cd backend
-
-   npm install
-
-   npm run dev
-
-   cd ../frontend
-
-   npm install
-
-   npm run dev
 
 # API Documentation
 
@@ -195,4 +173,28 @@ Conclusion
 ----------
 
 This API documentation provides a comprehensive overview of the available endpoints, their request formats, and descriptions. Follow the guidelines for error handling, authentication, and input validation to maintain the integrity and security of the application.
+
+
+# Setup Guide
+
+## 1. Clone the Project Repository
+## 2. Set Up the Backend
+## 3. Set Up the Frontend
+
+### Paste these commands in Your Terminal
+
+```bash
+       git clone https://github.com/Piyush-Sahare/Project-Build-APIs-with-Node.js-and-Express.js-for-Shoppyglobe-E-commerce.git
+
+       cd backend
+
+       npm install
+
+       npm run dev
+
+       cd ../frontend
+
+       npm install
+
+       npm run dev
     
